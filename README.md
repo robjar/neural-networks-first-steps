@@ -1,5 +1,5 @@
 # neural-networks-first-steps
-Neural Networks first steps based on TryHackMe Advent of Cyber 2023
+Neural Networks first steps based on TryHackMe Advent of Cyber 2023 (Day 14)
 
 ## Zero to Hero on Artificial Intelligence
 Before we can create our own AI, we need to learn some of the basics. First of all, let's discuss the two terms.
